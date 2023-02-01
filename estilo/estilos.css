@@ -1,0 +1,40 @@
+html{
+    scroll-behavior: smooth;
+}
+h1{
+    text-orientation: sideways;
+    writing-mode: vertical-rl;
+}
+body{
+    background-image: url('../img/fondo.jpg');
+}
+.inicio{
+    width: 0%
+}
+.ingles{
+    width: 30%
+}
+.figma{
+    width: 45%
+}
+.unity{
+    width: 10%
+}
+.processing{
+    width: 70%
+}
+.html{
+    width: 60%
+}
+.css{
+    width: 40%
+}
+.javascript{
+    width: 10%
+}
+.animacion{
+    transition: all 2s ease .5s;
+}
+#barra{
+    transition: 0.4s;
+}
